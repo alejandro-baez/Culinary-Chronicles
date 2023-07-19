@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(250, 210, 205);
+}
+
+header{
+    text-align: center;
+}
+
+.food{
+    width: 300px;
+    height: 300px;
+}
